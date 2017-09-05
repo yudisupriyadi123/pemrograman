@@ -1,0 +1,199 @@
+1
+00:00:02,000 --> 00:00:08,000
+di video pertama ini, kita akan belajar "alur eksekusi program" yang perlu dipahami oleh setiap programmer/developer.
+
+2
+00:00:09,000 --> 00:00:16,000
+Kita akan menampilkan teks di browser dan melihat bagaimana komputer mengeksekusi setiap baris kode yang kita tulis sehingga teks bisa tertampil.
+
+3
+00:00:16,000 --> 00:00:17,000
+ayo praktekkan
+
+4
+00:00:26,000 --> 00:00:30,000
+ekstrak file learn-prog.zip dan buka foldernya.
+
+5
+00:00:32,000 --> 00:00:34,000
+ini merupakan 2 file yang akan kita gunakan.
+
+6
+00:00:34,000 --> 00:00:38,000
+index.html adalah file yang akan memanggil kode kita.
+latihan.js adalah file tempat ketika mengetikkan kode.
+
+7
+00:00:39,000 --> 00:00:41,000
+kita lihat isi latihan.js
+
+8
+00:00:44,000 --> 00:00:48,000
+kita akan menulis kode di tempat yang telah disediakan.
+
+9
+00:01:00,000 --> 00:01:01,000
+mari mulai mengetik.
+
+10
+00:01:13,000 --> 00:01:15,000
+pertama kita ingin menampilkan sebuah teks. Kita gunakan fungsi print().
+
+11
+00:01:26,000 --> 00:01:29,000
+Sebuah teks yang BUKAN kode harus diapit oleh tanda kutip.
+
+12
+00:01:30,000 --> 00:01:35,000
+Oleh karena itu kita kurung saya-suka-bola dengan tanda kutip. Sedangkan print adalah kode jadi tanpa kutip.
+
+13
+00:01:45,000 --> 00:01:47,000
+*save*
+
+14
+00:01:48,000 --> 00:01:50,000
+kita jalankan di browser.
+
+15
+00:01:57,000 --> 00:01:50,000
+buka file index.html dengan Chrome browser.
+
+16
+00:02:00,000 --> 00:02:03,000
+Browser ini lebih saya rekomendasikan ketimbang yang lain.
+
+17
+00:02:04,000 --> 00:02:06,000
+
+18
+00:02:07,000 --> 00:02:08,000
+lihat sudah muncul teks kita.
+
+19
+00:02:10,000 --> 00:02:12,000
+sekarang klik kanan lalu buka inspect element tool.
+
+20
+00:02:22,000 --> 00:02:23,000
+kemudian Refresh ulang.
+
+21
+00:02:26,000 --> 00:02:28,000
+Nah muncul kode kita.
+
+22
+00:02:30,000 --> 00:02:34,000
+ini adalah kode yang kita tulis. Disini kita bisa melihat bagaimana komputer mengeksekusi program.
+
+23
+00:02:43,000 --> 00:02:45,000
+ini adalah tempat yang akan berguna nanti di video-video selanjutnya.
+
+24
+00:02:46,000 --> 00:02:47,000
+khususnya yang berlabel local.
+
+25
+00:02:48,000 --> 00:02:50,000
+mari kita tutup yang lain agar terlihat rapi.
+
+26
+00:02:55,000 --> 00:02:57,000
+dan ini adalah alat kita.
+
+27
+00:02:58,000 --> 00:03:01,000
+Kita akan mengeksekusi kode per-baris dengan tombol-tombol ini. Setiap tombol memiliki maksud yang berbeda.
+
+28
+00:03:08,000 --> 00:03:13,000
+"debugger" adalah kode-spesial yang membuat program kita terhenti sehingga kita dapat menggunakan tombol-tombol tadi.
+
+30
+00:03:19,000 --> 00:03:20,000
+mari kita tekan tombol "step over".
+
+31
+00:03:21,000 --> 00:03:22,000
+*baris-biru berpindah*
+
+32
+00:03:23,000 --> 00:03:26,000
+yang perlu dicatat adalah kode yang di dalam baris biru BELUM tereksekusi namun AKAN.
+
+33
+00:03:27,000 --> 00:03:30,000
+teks kita akan muncul disini.
+
+34
+00:03:36,000 --> 00:03:37,000
+*step over ditekan*
+
+35
+00:03:39,000 --> 00:03:41,000
+teks kita muncul
+
+36
+00:03:44,000 --> 00:03:45,000
+dan kode kita berhenti di baris biru. Di akhir program.
+
+37
+00:03:47,000 --> 00:03:49,000
+Selain itu perhatikan "commment" yang berwarna hijau.
+
+38
+00:03:50,000 --> 00:03:55,000
+Setiap teks yang diapit oleh tanda /* akan diabaikan ketika proses eksekusi sehingga kode program loncat dari "debugger" ke "print" lalu loncat lagi ke "}"
+
+39
+00:03:58,000 --> 00:04:00,000
+bagaimana kalau kita tambahkan teks lagi?
+
+40
+00:04:17,000 --> 00:04:19,000
+*Save*
+
+41
+00:04:32,000 --> 00:04:33,000
+*Refresh*
+
+42
+00:05:00,000 --> 00:05:03,000
+sekarang sudah muncul tapi kedua kalimat itu berhimpitan :(
+
+43
+00:05:08,000 --> 00:05:10,000
+mari kita ubah kodenya.
+
+44
+00:05:20,000 --> 00:05:21,000
+*menambahkan teks LN*
+
+45
+00:05:32,000 --> 00:05:34,000
+*save*
+
+46
+00:05:45,000 --> 00:05:54,000
+*bermasalah, browser tidak me-refresh dengan benar*
+
+47
+00:06:20,000 --> 00:06:21,000
+*refresh*
+
+48
+00:06:27,000 --> 00:06:28,000
+kosong, kosong? #sulap#
+
+49
+00:06:47,000 --> 00:06:50,000
+sekarang masing-masing teks berada di barisnya sendiri.
+
+50
+00:06:59,000 --> 00:07:04,000
+ln adalah LINE. Bahasa inggrisnya baris.
+
+51
+00:07:06,000 --> 00:07:08,000
+jadi println() adalah fungsi kedua kita setelah print()
