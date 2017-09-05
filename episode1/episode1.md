@@ -12,9 +12,12 @@
 
 
 ## Video
-<!-- video here -->
+<p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=Li1xgqNVVsk" target="_blank"><img src="http://img.youtube.com/vi/Li1xgqNVVsk/0.jpg" 
+alt="Video" width="340" height="280" border="10" /></a><br>
+Klik gambar untuk menonton video di Youtube
+</p>
 
-### Catatan
+## Catatan
 
 ![Catatan #1][catatan-1]
 
@@ -30,7 +33,7 @@
 
 diloncati maksudnya tidak dieksekusi, diabaikan.
 
-### Catatan Tambah
+## Catatan Tambah
 
 #### 1. Comment
 > Comment ditandai dengan awalan \/\* dan akhiran \*\/.  
@@ -45,9 +48,7 @@ diloncati maksudnya tidak dieksekusi, diabaikan.
 
 > Baris biru menandai posisi eksekusi saat ini.
 >
-> Perlu diperhatikan bahwa kode yang ada di dalam baris-biru BELUM dieksekusi namun AKAN setelah step-over berikutnya.
->  
-> Dengan kata lain, kode diesekusi bila ia diloncati oleh baris-biru.
+> Kode yang ada di dalam baris-biru BELUM dieksekusi. Itu merupakan kode yang akan dieksekusi berikutnya.
 
 ## Gambaran Apa-apa yang Telah Dibahas
 ![Mind mapping][mind-mapping]
