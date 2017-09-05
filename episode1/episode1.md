@@ -14,7 +14,44 @@
 ## Video
 <!-- video here -->
 
+### Catatan
+
+![Catatan #1][catatan-1]
+
+>1. Kode dieksekusi baris-per-baris
+
+>2. Kode dieksekusi dari *atas ke bawah*
+
+>3. Baris kosong (empty line) akan diloncati.  
+>   Perhatikan dari `debugger;` lalu loncat tepat ke `println('Indonesia')`  
+>   Dua baris kosong dilewati diantara dua kode itu.
+    
+>4. Comment (yang berwarna hijau) akan diloncati juga.
+
+diloncati maksudnya tidak dieksekusi, diabaikan.
+
+### Catatan Tambah
+
+#### 1. Comment
+> Comment ditandai dengan awalan \/\* dan akhiran \*\/.  
+> Selain itu, bisa juga dengan *hanya* diawali oleh \/\/
+>
+> Fungsi comment adalah sebagai penjelas kode atau keterangan. Ia *tidak akan dieksekusi dan diabaikan* oleh komputer.
+> Karena program bisa terdiri dari ribuan kode. Maka keterangan akan memudahkan pembacaan kode yang rumit.
+
+#### 2. Baris-Biru Saat Proses Eksekusi
+
+![Catatan #2][catatan-2]
+
+> Baris biru menandai posisi eksekusi saat ini.
+>
+> Perlu diperhatikan bahwa kode yang ada di dalam baris-biru BELUM dieksekusi namun AKAN setelah step-over berikutnya.
+>  
+> Dengan kata lain, kode diesekusi bila ia diloncati oleh baris-biru.
+
 ## Gambaran Apa-apa yang Telah Dibahas
 ![Mind mapping][mind-mapping]
 
+[catatan-1]: https://github.com/yudisupriyadi123/pemrograman/blob/master/episode1/Episode1_additional_1.gif?raw=true "Catatan 1"
+[catatan-2]: https://github.com/yudisupriyadi123/pemrograman/blob/master/episode1/Episode1_additional_2.gif?raw=true "Catatan 2"
 [mind-mapping]: https://github.com/yudisupriyadi123/pemrograman/blob/master/episode1/mind-mapping.png?raw=true "Gambaran"
