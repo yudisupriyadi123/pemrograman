@@ -21,9 +21,7 @@ Meski saya menggunakan bahasa JavaScript, saya lebih menuju ke arah pembentukan 
 
 Jadi, meski Anda tidak tertarik dengan JavaScript namun ingin belajar pemrograman bahasa yang Anda inginkan, misal C++, tetap lanjutkan membacanya ya :)
 
-
-
-## System Requirement
+## Requirement
 
 - Chrome, minimal versi yang tidak jauh dengan versi saat ini.
 - Text Editor, misal: notepad++
