@@ -1,17 +1,19 @@
 # Episode 1
 
-> Baca dan tonton pelan-pelan agar Anda menyerap materi dengan baik. Jangan terburu-buru, niatkan untuk sisihkan waktu hidup Anda untuk belajar. Ini adalah perdagangan. Anda membeli pengetahuan dengan waktu.
+> Baca dan tonton pelan-pelan agar Anda menyerap konten dengan baik. Syukur-syukur Anda dalam kondisi sedang nyaman belajar.
+>
+> Sambil menonton video, praktekkan langsung adalah cara terbaik, klaim saya.
+>
+> Tujuan kita memahami bagaimana kode dieksekusi. Pemahaman ini penting. Harapannya setelah ini Anda akan mudah mempelajari koding dan episode-episode berikutnya.
 
-> Sambil menonton video, praktekkan langsung adalah cara terbaik.
 
 ## Persiapan
 
-1. Ekstrak file learn-prog.zip
+1. Ekstrak file learn-prog.zip (download [disini](https://www.dropbox.com/s/tkmktrbwmhiy408/learn-prog.zip?dl=1))
 2. Buka folder `learn-prog`
-3. Buka `latihan.js` dengan text editor pilihan Anda. (misal notepad++)
+3. Buka `latihan.js` dengan text editor pilihanmu. (misal notepad++)
 
-
-## Video
+## Tonton:
 <p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=Li1xgqNVVsk" target="_blank"><img src="http://img.youtube.com/vi/Li1xgqNVVsk/0.jpg" 
 alt="Video" width="340" height="280" border="10" /></a><br>
 Klik gambar untuk menonton video di Youtube
