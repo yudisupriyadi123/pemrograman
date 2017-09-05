@@ -15,6 +15,6 @@
 <!-- video here -->
 
 ## Gambaran Apa-apa yang Telah Dibahas
-![alt text][mind-mapping]
+![Mind mapping][mind-mapping]
 
-[mind-mapping]: <mind-mapping-image-here> "Gambaran"
+[mind-mapping]: https://github.com/yudisupriyadi123/pemrograman/blob/master/episode1/mind-mapping.png?raw=true "Gambaran"
