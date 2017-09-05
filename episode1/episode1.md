@@ -14,14 +14,15 @@
 3. Buka `latihan.js` dengan text editor pilihanmu. (misal notepad++)
 
 ## Tonton:
+
+\* Hanya memakan kuota 14 MB dengan kualitas 720p HD.  
+\* Pastikan subtitle di Youtube dalam keadaan ON, karena sebagai penggganti tidak adanya suara.    
+\* Gunakan mode fullscreen :)
+
 <p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=Li1xgqNVVsk" target="_blank"><img src="http://img.youtube.com/vi/Li1xgqNVVsk/0.jpg" 
 alt="Video" width="340" height="280" border="10" /></a><br>
 Klik gambar untuk menonton video di Youtube<br/>
 </p>
-
-\*\* Hanya memakan kuota 14 MB dengan kualitas 720p HD.  
-\*\* Pastikan subtitle di Youtube dalam keadaan ON, karena sebagai penggganti tidak adanya suara.    
-\*\* Gunakan mode fullscreen :)
 
 ## Catatan
 
