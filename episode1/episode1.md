@@ -1,10 +1,10 @@
 # Episode 1
 
-> Baca dan tonton pelan-pelan agar Anda menyerap konten dengan baik. Syukur-syukur Anda dalam kondisi sedang nyaman belajar.
+> Sudilah untuk membaca secara pelan agar proses menyerap konten bisa berlangsung dengan baik. Syukur-syukur bila dalam kondisi sedang nyaman belajar.
 >
 > Sambil menonton video, praktekkan langsung adalah cara terbaik, klaim saya.
 >
-> Tujuan kita memahami bagaimana kode dieksekusi. Pemahaman ini penting. Harapannya setelah ini Anda akan mudah mempelajari koding dan episode-episode berikutnya.
+> Tujuannya, memahami bagaimana kode dieksekusi. Pemahaman ini sangat penting :)
 
 
 ## Persiapan
