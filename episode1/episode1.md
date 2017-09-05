@@ -21,6 +21,7 @@ Klik gambar untuk menonton video di Youtube<br/>
 
 \*\* Hanya memakan kuota 14 MB dengan kualitas 720p HD.  
 \*\* Pastikan subtitle di Youtube dalam keadaan ON, karena sebagai penggganti tidak adanya suara.
+\*\* Gunakan mode fullscreen :)
 
 ## Catatan
 
