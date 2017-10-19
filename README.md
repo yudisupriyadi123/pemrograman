@@ -1,32 +1,33 @@
-Bismillah.
+Dengan menyebut nama Allah yang Maha Pengasih dan Maha Penyayang.
 
-# Pemrograman
-Sebuah tulisan pembelajaran bagi calon developer.
+## Apa yang akan dicapai Anda
 
-## Motivasi
+Ilmu pemrograman yang bisa diterapkan oleh Anda di bahasa apapun. Untuk membuat sebuah aplikasi. Di platform apapun: Mobile (cth Android), Desktop, Web.
 
-> Bila anda pernah gagal memahami koding. Bingung. Merasa "salah jurusan". **Anda tidak bodoh**, saya meyakini Anda hanya belum menemukan sumber belajar atau guru yang mampu mentransfer pengetahuan dan ilmu kepada Anda dengan halus.
+Saya disini memakai bahasa JavaScript (JS) karena fitur Browser yang mendukung JavaScript mudah bagi kita untuk melihat sebuah kode di eksekusi sehingga memunculkan *Oh Gituh!*
+
+Tapi jangan khawatir dengan JS, semua ilmu disini akan memudahkan mempelajari bahasa apapun.
+
+## Halaman apa ini?
+
+Tempat berkumpulnya artikelku yang berkaitan dengan Pemrograman Dasar: VARIABEL, IF ELSE, LOOPING (while, for), PROCEDURE/FUNCTION.
 
 ## Tujuan
-oleh karena itu, halaman ini adalah bentuk ikhtiar untuk memberi materi yang bisa membantu Anda memahami pemrograman.
 
-Harapannya setelah ini Anda akan mudah mempelajari kodingan bahasa apapun.
+Babareng. Dalam upaya saling membantu sesama memahami dunia pemrograman dengan berbagi pengetahuan dan ilmu.
 
-Meski saya menggunakan bahasa JavaScript, saya lebih menuju ke arah pembentukan pemahaman koding secara umum.
+Tidak ada yang bodoh kecuali resources yang kurang (baik kuantitas maupun kualitas).
 
-- Bagaimana IF bekerja
-- Bagaimana WHILE bekerja
-- Implementasi Function dan Pemahamannya
-- dll
-
-Jadi, meski Anda tidak tertarik dengan JavaScript namun ingin belajar pemrograman bahasa yang Anda inginkan, misal C++, tetap lanjutkan membacanya ya :)
-
-## Requirement
+## Apa-apa saja yang dibutuhkan
 
 - Chrome, minimal versi yang tidak jauh dengan versi saat ini.
-- Text Editor, misal: notepad++
+- Text Editor, misal: Sublime Text, Visual Studio Code, Notepad++
 
-## Daftar
+--
+
+## Artikel
+
+Maka dari itu berikut setiap artikel yang halaman ini sajikan:
 
 1. [Episode 1](https://github.com/yudisupriyadi123/pemrograman/blob/master/episode1/episode1.md)
 
